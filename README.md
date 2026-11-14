@@ -44,7 +44,8 @@
 
 ## 📸 游戏截图 (Screenshots)
 
-*(在这里插入几张你游戏的截图或者录制的 GIF 动图，比如怪物被卡在路障前挨打的画面)*
+<img width="1172" height="500" alt="图片" src="https://github.com/user-attachments/assets/71410685-a0d7-48e1-88cd-6a42f339fcde" />
+
 
 ---
 
